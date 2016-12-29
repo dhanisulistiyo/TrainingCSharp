@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingCSharp", "TrainingCSharp\TrainingCSharp.csproj", "{E922197D-D4CE-4EF2-91F8-E2D26C4AD92B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRSystem", "HRSystem\HRSystem.csproj", "{1C2208D6-8BEF-48B3-A3AD-A3041E0D2F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E922197D-D4CE-4EF2-91F8-E2D26C4AD92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E922197D-D4CE-4EF2-91F8-E2D26C4AD92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E922197D-D4CE-4EF2-91F8-E2D26C4AD92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E922197D-D4CE-4EF2-91F8-E2D26C4AD92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2208D6-8BEF-48B3-A3AD-A3041E0D2F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2208D6-8BEF-48B3-A3AD-A3041E0D2F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2208D6-8BEF-48B3-A3AD-A3041E0D2F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2208D6-8BEF-48B3-A3AD-A3041E0D2F98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
